@@ -2,7 +2,7 @@
 Analysis of standardized test scores across one school district
 
 ## Overview of the school district analysis: 
-Explain the purpose of this analysis.
+The purpose of this analysis was to remove the scores of the ninth graders from Thomas High School due to allegations of academic integrity. The analysis of the school district test scores for math and reading were then rerun to account for this change in data. This change in the scores for Thomas High School Ninth graders lead to a change in district-wide math and reading scores.
 
 ## Results: 
 Using bulleted lists and images of DataFrames as support, address the following questions.

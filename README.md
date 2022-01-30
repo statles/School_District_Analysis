@@ -12,7 +12,7 @@ Using bulleted lists and images of DataFrames as support, address the following 
 - How is the school summary affected?
 - The school summary is affected by greatly decreasing the percent passing for reading and math for Thomas High School. Passing math percentages dropped from 93% to 67%. Passing reading percentages dropped from 97% to 70%. The overall passing rate for Thomas High School dropped from 91% to 65%. However, when we replace the Thomas High School scores with the scores from only 10th through 12th grade, the passing percentages are only decreased by 0.1-0.3% for all scores.
 ![school_summary_df_NaN_emphasized](https://user-images.githubusercontent.com/95397823/151682703-6bb9b35b-ed16-4e6a-a10f-5836ff3deed6.png)
-Fig1. The School Summary df before Thomas High School Scores are replaced
+Fig1. The School Summary df with the ninth grade scores for Thomas High School
 ![school_summary_df_NaN_2_emphasized](https://user-images.githubusercontent.com/95397823/151682719-dd7479b0-254c-41b1-b953-84f453add22c.png)
 Fig2. The School Summary df after Thomas High School Scores are replaced
 
